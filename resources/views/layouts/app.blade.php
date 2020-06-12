@@ -41,8 +41,8 @@
 
             <ul>
             <li class="active"><a href="/">Inicio</a></li>
-            <li><a href="{{route('servicios')}}">Servicios</a></li>
-            <li><a href="{{route('contacto')}}">Contactános</a></li>
+            <li><a href="/servicios/">Servicios</a></li>
+            <li><a href="/contacto/">Contactános</a></li>
 
             </ul>
 

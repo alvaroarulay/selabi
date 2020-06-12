@@ -1,6 +1,6 @@
 @extends('layouts.app')
-@include('partials.slide')
 @section('content')
+@include('partials.slide')
 <!-- ======= Services Section ======= -->
 <section id="services" class="services">
       <div class="container">
